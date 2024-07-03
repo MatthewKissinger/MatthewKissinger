@@ -5,7 +5,7 @@
 <ul><b>Microsoft Azure</b></ul>
   <li>Part 1 [Setup and configure Virtual Machines for Active Directory Deployment](https://github.com/MatthewKissinger/vm-ad-setup)</li>
   <li>Part 2 [Connect to a Microsoft Azure VM via Remote Desktop Connection](https://github.com/MatthewKissinger/rmdc-to-azure-vm)</li>
-  <li>Part 3 [Establish connection between Domain Controller and Client VMs] </li>
+  <li>Part 3 [Establish connection between Domain Controller and Client VMs](https://github.com/MatthewKissinger/connect-dc-client-vms)</li>
  
 
 <h2>🤳Connect with me:</h2>
